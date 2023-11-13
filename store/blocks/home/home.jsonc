@@ -1,0 +1,16 @@
+{
+  "store.home": {
+    "blocks": [
+      "rich-text",
+     "appreact"
+    ]
+  },
+  "rich-text": {
+    "props": {
+      "text": "Hello word",
+      "textAlignment": "CENTER",
+      "textPosition": "CENTER",
+      "font": "t-heading-1"
+    }
+  }
+}
