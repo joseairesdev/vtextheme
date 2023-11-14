@@ -1,0 +1,24 @@
+{
+    "flex-layout.row#top-bar": {
+        "props": {
+            "blockClass": "wrapper__top-bar"
+        },
+        "children":[
+            "rich-text#logo-text",
+            "rich-text#description"
+        ]
+    },
+   
+    "rich-text#logo-text":{
+        "props": {
+            "blockClass":"text__top-bar",
+            "text": "Loja Prototipo"
+        }
+    },
+    "rich-text#description":{
+        "props": {
+            "blockClass":"text__top-bar",
+            "text": "Home"
+        }
+    }
+}

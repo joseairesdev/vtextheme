@@ -7,7 +7,7 @@
   },
   "rich-text": {
     "props": {
-      "text": "Hello word",
+      "text": "Hello",
       "textAlignment": "CENTER",
       "textPosition": "CENTER",
       "font": "t-heading-1"

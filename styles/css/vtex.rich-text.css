@@ -1,0 +1,5 @@
+.paragraph--text__top-bar{
+    display: flex;
+    justify-content: space-around;
+    color: rgb(245, 248, 250);
+}
